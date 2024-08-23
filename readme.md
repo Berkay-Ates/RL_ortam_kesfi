@@ -51,7 +51,7 @@ The project is structured as follows:
 
 ## Notes
  
-[![IMAGE ALT TEXT HERE](image.png![alt text](image.png))](https://youtu.be/MbZN7rhkaCM)
+[!(image.png![alt text](image.png))](https://youtu.be/MbZN7rhkaCM)
 
 
 This README provides an overview and instructions to get started with the custom robot simulation project in ROS 2.
